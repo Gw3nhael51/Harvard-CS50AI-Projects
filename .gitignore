@@ -1,0 +1,6 @@
+__pycache__
+.venv
+*/large/
+*/small/
+/degrees.py
+/util.py
