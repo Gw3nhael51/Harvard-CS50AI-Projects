@@ -1,6 +1,8 @@
-__pycache__
-.venv
-*/large/
-*/small/
-/degrees.py
-/util.py
+.venv/
+**/large/
+**/small/
+**/__pycache__/
+
+**/degrees.py
+**/util.py
+**/*.pyc
