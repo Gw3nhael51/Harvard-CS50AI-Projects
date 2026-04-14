@@ -14,7 +14,7 @@ Conformément à la politique d'honnêteté académique de Harvard, ce dépôt n
 
 | Projet | Statut | Algorithmes & Concepts | Documentation |
 | :--- | :--- | :--- | :--- |
-| **0. Degrees** | ✅ Terminé | **Breadth-First Search (BFS)**, Graphes | [Voir la branche](https://github.com/Gw3nhael51/Harvard-CS50AI-Projects/tree/degrees) |
+| **0. Degrees** | ✅ Terminé | **Breadth-First Search (BFS)**, Graphes | [Voir la branche](https://github.com/Gw3nhael51/Harvard-CS50AI-Projects/blob/projects/degrees) |
 | **1. Tic-Tac-Toe** | 📅 Prévu | **Minimax**, Alpha-Beta Pruning | *À venir* |
 | **2. PageRank** | 📅 Prévu | Modèles de **Markov**, Probabilités | *À venir* |
 
